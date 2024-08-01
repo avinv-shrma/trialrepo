@@ -76,3 +76,7 @@ createBoard()
 function flipCard(){
     
 }
+
+function flippedCard () {
+    
+}
